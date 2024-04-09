@@ -2,7 +2,7 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Linh</h1>
 <p align="center">
-  <h3 align="center">I'm student FPT POLYTECHNIC | Information Technology</h3>
+  <h3 align="center">I graduated from FPT Polytechnic College | Information Technology</h3>
 </p>
 
 - ✍ I'm a young programmer!
