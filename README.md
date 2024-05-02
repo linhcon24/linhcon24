@@ -94,14 +94,14 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
 </p>
 
+## Activities:
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
-## Activities:
 <table style="width:100%;">
   <tr>
     <td>
