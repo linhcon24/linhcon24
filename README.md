@@ -5,7 +5,9 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Linh!;" />
 </h1>
 <p align="center">
-  <h3 align="center">I graduated from FPT Polytechnic College | Information Technology</h3>
+  <!-- <h3 align="center">I graduated from FPT Polytechnic College | Information Technology</h3> -->
+      <h3 align="center"> I am a student at Hanoi University of Industry. | Information Technology - Software Development major</h3>
+      
 </p>
 
 - ✍ I'm a young programmer!
